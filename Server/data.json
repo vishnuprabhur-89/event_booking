@@ -1,0 +1,162 @@
+[
+    {
+        "_id":"1001",
+        "name": "Computational Intelligence and Intelligent Systems",
+        "date":"23-09-2020",
+        "seats":20,
+        "status":true,
+        "image":"./images/2.jpg"
+    },
+    {
+        "_id":"1002",
+        "name": "Computer Sciences Data Communication and Networking",
+        "date":"29-09-2020",
+        "seats":28,
+        "status":true,
+        "image":"./images/3.jpg"
+    },
+    {
+        "_id":"1003",
+        "name": "Fuzzy Information and Engineering Conference",
+        "date":"05-10-2020",
+        "seats":0,
+        "status":false,
+        "image":"./images/4.jpg"
+    },
+    {
+        "_id":"1004",
+        "name": "Artificial Intelligence and Software Engineering",
+        "date":"08-10-2020",
+        "seats":100,
+        "status":true,
+        "image":"./images/5.jpg"
+    },
+    {
+        "_id":"1005",
+        "name": "Computer Communication and Information Sciences",
+        "date":"12-10-2020",
+        "seats":3,
+        "status":true,
+        "image":"./images/6.jpg"
+    }, 
+    {
+        "_id":"1006",
+        "name": "Computer Engineering Computing and Mathematical Sciences Conference",
+        "date":"02-10-2020",
+        "seats":0,
+        "status":false,
+        "image":"./images/7.jpg"
+    },
+    {
+        "_id":"1007",
+        "name": "Computer Games Multimedia and Allied Technology Conference",
+        "date":"23-10-2020",
+        "seats":33,
+        "status":true,
+        "image":"./images/8.jpg"
+    },
+    {
+        "_id":"1008",
+        "name": "Collaborative Intelligence Conference",
+        "date":"28-10-2020",
+        "seats":0,
+        "status":false,
+        "image":"./images/9.jpg"
+    },
+    {
+        "_id":"1009",
+        "name": "Computer Research and Development Conference",
+        "date":"05-11-2020",
+        "seats":88,
+        "status":true,
+        "image":"./images/10.jpg"
+    },
+    {
+        "_id":"1010",
+        "name": "Dependability and Complex Systems Conference",
+        "date":"14-11-2020",
+        "seats":0,
+        "status":false,
+        "image":"./images/12.jpg"
+    },
+    {
+        "_id":"1011",
+        "name": "Intelligent Robotics Automations and Applications Conference",
+        "date":"19-11-2020",
+        "seats":120,
+        "status":true,
+        "image":"./images/1.jpg"
+    },
+    {
+        "_id":"1012",
+        "name": "Machine Intelligence Conference",
+        "date":"19-11-2020",
+        "seats":180,
+        "status":true,
+        "image":"./images/13.jpg"
+    },
+    {
+        "_id":"1013",
+        "name": "Telecommunication Systems Modeling and Analysis Conference.",
+        "date":"23-11-2020",
+        "seats":0,
+        "status":false,
+        "image":"./images/14.jpg"
+    },
+    {
+        "_id":"1014",
+        "name": "Cognitive Computing Conference",
+        "date":"02-12-2020",
+        "seats":70,
+        "status":true,
+        "image":"./images/15.jpg"
+    },
+    {
+        "_id":"1015",
+        "name": "Intelligent Systems and Technologies Conference",
+        "date":"08-12-2020",
+        "seats":78,
+        "status":true,
+        "image":"./images/16.jpg"
+    },
+    {
+        "_id":"1016",
+        "name": "Virtual Reality Technologies and Applications Conference",
+        "date":"12-12-2020",
+        "seats":0,
+        "status":false,
+        "image":"./images/19.jpg"
+    },
+    {
+        "_id":"1017",
+        "name": "Computers and Games Conference.",
+        "date":"18-12-2020",
+        "seats":52,
+        "status":true,
+        "image":"./images/18.jpg"
+    },
+    {
+        "_id":"1018",
+        "name": "Artificial Intelligence and Cognitive Science Conference.",
+        "date":"23-12-2020",
+        "seats":0,
+        "status":false,
+        "image":"./images/17.jpg"
+    },
+    {
+        "_id":"1019",
+        "name": "Artificial Intelligence and Data Mining Conference.",
+        "date":"24-12-2020",
+        "seats":22,
+        "status":true,
+        "image":"./images/20.jpg"
+    },
+    {
+        "_id":"1020",
+        "name": "Computer and Software Engineering Conference",
+        "date":"09-11-2020",
+        "seats":7,
+        "status":true,
+        "image":"./images/11.jpg"
+    }
+]
