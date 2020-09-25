@@ -5,7 +5,7 @@
 
 # Backend
 
-1. Inside the server folder, npm install
+1. Move to server folder 
 2. node server.js or nodemon.cmd server.js
 ---------------------------------------------------------------------------
 ## `npm run build`
